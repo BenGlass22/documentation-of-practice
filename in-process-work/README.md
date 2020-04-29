@@ -2,8 +2,14 @@
 
 ![In_Progress](sketch.png)
 
-- Date: April 19, 2020
-- Medium: Digital Image file produced with custom software
-- Description: This is one of the first sketches I produced using special software I found online called emoji.ink
+- Date: April 29, 2020
+- Medium: Digital generated images made via GAN model on Runway.ml. HTML. P5.js creation.
+- Description: These images show case the various elements of my overall work in progress. 
+The production of the GAN images and photo editing involved. The code written for the p5.js project
+as well as a segment of html written for the GANMOJIPEDIA website.
 
-Inspired by the early ASCII art portraits I found in my research on emoticons, I decided to create portraits using emojis. My first attempts were produced using Snapchat, but it was very difficult to get the level of detail I wanted. After further research I found an online application called emoji.ink, developed by an Internet artist named Vince McElvie. It's this app which I used to produce the sketch seen above. My initial sketches were focused on specific facial features (eyes, nose, lips). I made numerous sketches of these close ups to practice drawing with emojis until I had developed a style I felt had the right degree of "photo realism", or at least as representational as one can get with emojis.
+Inspired by themes of image fidelity, GAN art and pictoral comunication in the emerging world of the GAN
+I came across the idea of creating GAN generated emojis based on the currently existing 3,304 current IOS Emojis.
+Having found an open source model on Runway involving apple emojis I began traning my model feeding it all IOS EMOJIS
+and varients as source material. After 3,000 epochs the GAN produced the first series of 100 images to which I am calling 
+Gen1, as all batches to follow will learn and evovle based on all subsequent variations and source material. With the images created each one was edited in photoshop through batch a editing process to recognizable eomi size and format. These images where then used in conjunction with the p5.js projects that exist as scripts run on the Gan moji website. Both of which have been buily from scratch. 
