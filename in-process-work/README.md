@@ -1,6 +1,6 @@
 # Emoji Portraits, work in progress
 
-![In_Progress](sketch.png)
+![In_Progress](GanmojiWIP.png)
 
 - Date: April 29, 2020
 - Medium: Digital generated images made via GAN model on Runway.ml. HTML. P5.js creation.
